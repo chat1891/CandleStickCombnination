@@ -1,0 +1,15 @@
+C:\Dev\CandleStick\_CandleStick\CandleStick\bin\Debug\CandleStick.exe.config
+C:\Dev\CandleStick\_CandleStick\CandleStick\bin\Debug\CandleStick.exe
+C:\Dev\CandleStick\_CandleStick\CandleStick\bin\Debug\CandleStick.pdb
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\CandleStick.csprojAssemblyReference.cache
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\MainWindow.g.cs
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\App.g.cs
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\CandleStick_MarkupCompile.cache
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\CandleStick_MarkupCompile.lref
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\MainWindow.baml
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\CandleStick.g.resources
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\CandleStick.Properties.Resources.resources
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\CandleStick.csproj.GenerateResource.cache
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\CandleStick.csproj.CoreCompileInputs.cache
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\CandleStick.exe
+C:\Dev\CandleStick\_CandleStick\CandleStick\obj\Debug\CandleStick.pdb
